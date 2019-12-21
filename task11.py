@@ -1,0 +1,6 @@
+linyanjun=str("Get Outta My Head")
+print(linyanjun)
+words=linyanjun.split()
+print(words)
+number_of_words=len(words)
+print(number_of_words)
